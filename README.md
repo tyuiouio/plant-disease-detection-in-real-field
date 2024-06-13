@@ -1,3 +1,15 @@
+
+Your dataset has been published
+Dear jun liu,
+
+Thank you for submitting your dataset, it has now been published on the repository. You can view it here: https://data.mendeley.com/datasets/tg3z7xxkdb/1
+
+
+Thanks,
+The Digital Commons Data team
+
+
+
 References
 [25]	Cao, Y., Chen, L., Yuan, Y., & Sun, G. (2023). Cucumber disease recognition with small samples using image-text-label-based multi-modal language model. Computers and Electronics in Agriculture, 211, 107993.
 
